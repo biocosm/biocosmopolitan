@@ -11,7 +11,7 @@ export default class IndexPage extends React.Component {
       <section className="section">
         <div className="container">
           <div className="content">
-              <h1 className="has-text-weight-bold is-size-2">Some Posts</h1>
+              <h1 className="has-text-weight-bold is-size-2">INCOMING TRANSMISSIONS</h1>
           </div>
           {posts
             .filter(post => post.node.frontmatter.templateKey === 'blog-post')

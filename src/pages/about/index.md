@@ -1,19 +1,43 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: ON BIOCOSMISM
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### DESIRE
+##### It is our desire to communize the universe and seed our selves beyond the world.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Space probably is not dead, but we don't know for sure so let's find out.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### RESISTANCE FUTILE
+##### Resistance to space exploration will not prevent space exploration.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Resistance to space exploration will prevent your participation, destroy your power, and limit your options when space exploration bears fruit. Already the earth is claimed by states, and surveilled by satellites. The last remaining free places are being strangled by the encroaching apparatus of capitalism and industry. Much disrespect to those who are content to squat these last free places, and placidly wait for the end.
+
+
+### PRECEPTS
+
+##### 1
+###### Any self should live as long as it chooses to live.
+
+This goes for humans and nonhumans, post humans, sentient animals, and emotional intelligences. This is a value statement. It does not have to be possible. Very simply, it is better to live, until it isn't.
+
+##### 2
+######
+Any self should be able to go anywhere.
+
+Movements in space and time, as well as movements in other dimensions or measureable characteristics, are not the domain of the self, these acts are the actual material of which the self consists. There is nothing inherent in space or time that calls into question the ability of selves to change, to flow, and to migrate. The only real law is that no act shall be perfectly repeated, as expressed by the creation of entropy in time.
+
+
+##### 3
+######
+These selves acting up and moving around will eventually run into each other and interact.
+
+There is no ethic, no morality, and no philosophy that will prevent atrocities and self destruction. Only action, knowledge and luck can prevent the destruction of specific selves. Each circumstance is unique, and doctrines are not truth but preference.
+
+
+##### 4
+######
+The selves intermingle.
+
+Why shouldn't individuals communize to create larger organisms which are new individuals? On what scale should this process be limited?

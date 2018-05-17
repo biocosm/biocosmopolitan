@@ -8,4 +8,4 @@ tags:
 ---
 THE FUTURE O NO
 
-![null](/img/chemex.jpg)
+![null](/img/wiz.jpg)
