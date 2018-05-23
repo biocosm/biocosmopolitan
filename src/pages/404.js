@@ -1,10 +1,10 @@
-import React from 'react'
+import React from "react";
 
 const NotFoundPage = () => (
   <div>
     <h1>NOT FOUND</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+    <p>Do not go gently into that good night... press the home button above to return to the fold. Or, operate the menu </p>
   </div>
-)
+);
 
-export default NotFoundPage
+export default NotFoundPage;
