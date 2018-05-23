@@ -1,7 +1,8 @@
 ---
 title: Up-Wing Priorities
-date: '1981-05-23'
+prefix: '1981-05-23'
 category: articles
+cover: ../../../static/images/uploads/fm2030.jpg
 author: FM-2030
 ---
 

@@ -2,7 +2,7 @@ require("dotenv").config();
 const config = require("./content/meta/config");
 
 const query = `{
-  allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/posts|pages/[0-9]+.*--/"}}) {
+  allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/posts|pages/[0-9]+.*--"}}) {
     edges {
       node {
         objectID: fileAbsolutePath
