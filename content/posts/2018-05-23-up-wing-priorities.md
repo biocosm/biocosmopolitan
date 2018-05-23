@@ -1,7 +1,9 @@
 ---
 title: Up-Wing Priorities
 date: '1981-05-23'
+cover: /images/fm2030.jpg
 category: articles
+author: FM-2030
 ---
 
 > FM. Esfandiary is a telecommuni-
