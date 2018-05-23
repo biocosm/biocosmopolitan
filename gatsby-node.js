@@ -6,6 +6,14 @@ const Promise = require("bluebird");
 
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
+// takes every node returned by your gatsby-source plugins and converts any absolute paths in markdown frontmatter data into relative paths if a matching file is found
+const { fmImagesToRelative } = require('gatsby-remark-relative-images');
+
+exports.onCreateNode = ({ node }) => {
+  fmImagesToRelative(node);
+};
+
+
 exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
   const { createNodeField } = boundActionCreators;
   if (node.internal.type === `MarkdownRemark`) {
