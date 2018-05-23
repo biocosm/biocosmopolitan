@@ -1,7 +1,7 @@
 ---
 title: Up-Wing Priorities
 date: '1981-05-23'
-cover: /images/fm2030.jpg
+cover: /images/uploads/fm2030.jpg
 category: articles
 author: FM-2030
 ---
@@ -30,7 +30,7 @@ philosophy: optimism^abun-
 dance — universalism — immor-
 tality."
 
-
+![image of FM-2030 aka F.M. Estfandiary](/images/uploads/fm2030.jpg)
 
 # Up-Wing Priorities
 
