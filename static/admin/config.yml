@@ -11,10 +11,6 @@ slug:
 media_folder: static/images/uploads
 <<<<<<< HEAD
 public_folder: images/uploads
-=======
-public_folder: /images/uploads
->>>>>>> b62a6c9680eb947a55f53550dea9e165ed46a49e
-
 collections:
   - name: blog
     label: Blog

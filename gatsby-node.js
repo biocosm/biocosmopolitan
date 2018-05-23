@@ -5,7 +5,7 @@ const path = require("path");
 const Promise = require("bluebird");
 
 const { createFilePath } = require(`gatsby-source-filesystem`);
-
+  
 
 
 exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
