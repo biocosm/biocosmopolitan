@@ -126,7 +126,6 @@ export const guery = graphql`
       }
     }
   }
-}
   `;
 
 //hero-background

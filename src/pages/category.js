@@ -112,6 +112,7 @@ export const guery = graphql`
               }
             }
           }
+        }
     site {
       siteMetadata {
         facebook {
