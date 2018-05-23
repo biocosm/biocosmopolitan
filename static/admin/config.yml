@@ -1,0 +1,24 @@
+backend:
+  name: git-gateway
+
+publish_mode: editorial_workflow
+display_url: https://biocosm.xyz
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+
+media_folder: static/images/uploads
+public_folder: /images
+
+collections:
+  - name: blog
+    label: Blog Posts (Timestamped)
+    folder: content/posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { name: path, label: Path }
+      - { name: date, label: Date, widget: date }
+      - { name: title, label: Title }
+      - { name: body, label: Body, widget: markdown }
