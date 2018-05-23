@@ -99,10 +99,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          {
-            resolve: `gatsby-remark-relative-images`,
-          },
-          `gatsby-plugin-sharp`,
+         `gatsby-plugin-sharp`,
           {
             resolve: `gatsby-remark-images`,
             options: {

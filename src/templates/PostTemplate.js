@@ -63,9 +63,15 @@ export const postQuery = graphql`
         title
         author
         category
-        cover
+        cover {
+          childImageSharp {
+            resize(width: 300) {
+              src
+            }
           }
         }
+      }
+    }
 
     authornote: markdownRemark(id: { regex: "/author/" }) {
       id

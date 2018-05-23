@@ -89,11 +89,19 @@ export const guery = graphql`
             title
             category
             author
-            cover
+            cover {
+              children {
+                ... on ImageSharp {
+                  sizes(maxWidth: 800, maxHeight: 360) {
+                    ...GatsbyImageSharpSizes_withWebp
+                  }
                 }
               }
             }
-
+          }
+        }
+      }
+    }
 
     site {
       siteMetadata {
