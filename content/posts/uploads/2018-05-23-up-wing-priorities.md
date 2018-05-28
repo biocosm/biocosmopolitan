@@ -1,9 +1,10 @@
---title: Up-Wing Priorities
+---
+title: Up-Wing Priorities
 prefix: '1981-05-23'
 category: articles
 cover: ../../../static/images/uploads/fm2030.jpg
 author: FM-2030
---
+--- 
 > FM. Esfandiary is a telecommunicator — writer — long-range planner — university lecturer. He has
 taught Up- Wing philosophy since the
 mid-1960s— first at the New School
