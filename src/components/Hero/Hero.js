@@ -41,7 +41,7 @@ const Hero = props => {
           margin: ${theme.space.stack.l};
           color: ${theme.hero.h1.color};
           line-height: ${theme.hero.h1.lineHeight};
-          text-remove-gap: both 0 "Do Hyeon, sans-serif";
+          text-remove-gap: both 0 "do hyeon, sans-serif";
           text-shadow: 1px 1px 3px #003;
 
           :global(strong) {

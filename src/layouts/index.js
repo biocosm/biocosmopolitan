@@ -117,8 +117,8 @@ class Layout extends React.Component {
                 h2,
                 h3 {
                   font-family: ${this.state.font300loaded
-                    ? "'Do Hyeon', sans-serif;"
-                    : "'Do Hyeon', sans-serif;"};
+                    ? "'do hyeon', sans-serif;"
+                    : "'do hyeon', sans-serif;"};
                   font-weight: ${this.state.font300loaded ? 300 : 300};
                   line-height: 1.1;
                   letter-spacing: -0.03em;

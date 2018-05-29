@@ -69,7 +69,7 @@ font:
   family:
     initial: 'Arial, sans-serif'
     target: &font-family-target 'Raleway'
-    head: &font-family-head 'Do Hyeon'
+    head: &font-family-head 'do hyeon'
   weight:
     standard: 400
     bold: 600
