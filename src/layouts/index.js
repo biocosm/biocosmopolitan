@@ -1,4 +1,4 @@
-import "typeface-open-sans";
+
 import FontFaceObserver from "fontfaceobserver";
 import PropTypes from "prop-types";
 import React from "react";
@@ -117,8 +117,8 @@ class Layout extends React.Component {
                 h2,
                 h3 {
                   font-family: ${this.state.font300loaded
-                    ? "'do hyeon', sans-serif;"
-                    : "'do hyeon', sans-serif;"};
+                    ? "'do hyeon', monospace;"
+                    : "'do hyeon', monospace;"};
                   font-weight: ${this.state.font300loaded ? 300 : 300};
                   line-height: 1.1;
                   letter-spacing: -0.03em;
