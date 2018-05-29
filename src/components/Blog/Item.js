@@ -12,7 +12,7 @@ const Item = props => {
     theme,
     post: {
       excerpt,
-      fields: { slug, prefix },
+      fields: { slug, date },
       frontmatter: {
         title,
         category,
@@ -34,7 +34,7 @@ const Item = props => {
           </h1>
           <p className="meta">
             <span>
-              <FaCalendar size={18} /> {prefix}
+              <FaCalendar size={18} /> {date}
             </span>
             <span>
               <FaUser size={18} /> {author}
