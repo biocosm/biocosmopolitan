@@ -39,7 +39,7 @@ size:
 color:
   # color options
   neutral:
-    white: &color-white '#ffffff'
+    white: &color-white '#fffffe'
     gray:
       a: &color-gray-1 '#fafaf9'
       b: &color-gray-2 '#f3f2f2'

@@ -2,4 +2,6 @@
 title: author
 ---
 
-**Arkady Bogdanov** Proin ornare ligula eu tellus tempus elementum. Aenean [bibendum](/) iaculis mi, nec blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus. Blandit lacus interdum vitae. Vestibulum non nibh risus, a scelerisque purus.
+**BIOCOSMOPOLITAN** is a news and media platform for the up-wing community.
+
+# We're going to steal the moon.  [You can help](/donate).

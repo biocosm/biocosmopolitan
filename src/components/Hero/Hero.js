@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import FaArrowDown from "react-icons/lib/fa/arrow-down";
+import FaNewspaperO from "react-icons/lib/fa/newspaper-o";
 
 const Hero = props => {
   const { scrollToContent, backgrounds, theme } = props;
@@ -10,10 +10,10 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          Our Mission? <strong>Fight Gravity.</strong>
+          FAKE NEWS FROM OUTER SPACE
         </h1>
         <button onClick={scrollToContent} aria-label="scroll">
-          <FaArrowDown />
+          <FaNewspaperO />
         </button>
       </section>
 

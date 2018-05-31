@@ -1,6 +1,6 @@
 ---
 title: THIS IS A WEBSITE
-menuTitle: About
+menuTitle: ABOUT
 ---
 <!-- What -->
 ## BIOCOSMOPOLITAN IS A WEBSITE
@@ -16,20 +16,22 @@ We are unapologetically opinionated. BIOCOSMOPOLITAN is an up-wing news and medi
 
 We publish news, reviews, columns, and podcasts from a pan-human, egalitarian, interplanetary perspective. We support efforts to transcend death, gravity, entropy, and all other limitations. We oppose all systems of control and oppression.
 
-See our [platform](/biocosm) for details.
+See our [space platform](/biocosm) for details.
 
 <!-- Who -->
 ## BIOCOSMOPOLITAN IS A COMMUNITY
 
-The ad-supported news media doesn't want to envision a fully automated luxury future. We at BIOCOSMOPOLITAN are completely worker- and reader-supported and owe our allegiance only to Utopia.
+The ad-supported news media doesn't want to envision a fully automated luxury future. We at BIOCOSMOPOLITAN are completely worker- and [reader-supported](/donate) and owe our allegiance only to Utopia.
 
-We want your opinions, your research notes, your recorded works and spectacular images. [Send them to us](/donate), and we will put them in a fancy place, in for public consumption, in good company amongst other biocosmic singularities.  
+We want your opinions, your research notes, your recorded works and spectacular images. [Send them to us](/submit), and we will put them in a fancy place, in for public consumption, in good company amongst other biocosmic singularities.  
 
 
 <!-- When -->
 ## BIOCOSMOPOLITAN IS FOR THE FUTURE
 
-As denizens of the earth, we cannot be neutral in dealing with the powers of nature and of humankind. The twenty-first century will see overwhelming change in climate, in automation, in biotech, in war and netwar and politics. Someone must take a stand for the future, for the lives of our great-great-grandchildren.
+As denizens of the earth, we cannot be neutral in dealing with the powers of nature and of humankind. The twenty-first century will see overwhelming change in climate, in automation, in biotech, in war and netwar and politics.
+
+Someone must take a stand for the future, for the lives of our great-great-grandchildren.
 
 We want every human generation to have a better life than their parents. To do this, we must also steward the biosphere and the technosphere. Humanity and our tools are intimately dependent on the living systems of sea and soil and slime that surround us. We need our home planet to be stable, to have a healthy climate and a thriving ecology, if we want to have any chance at expanding the biocosm to the stars.
 

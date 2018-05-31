@@ -11,7 +11,7 @@ module.exports = {
   authorTwitterAccount: "igrrhatchling",
   // info
   headerTitle: "BIOCOSMOPOLITAN",
-  headerSubTitle: "travel space forever with your friends",
+  headerSubTitle: "",
   // manifest.json
   manifestName: "BIOCOSMOPOLITAN",
   manifestShortName: "BIOCOSM", // max 12 characters

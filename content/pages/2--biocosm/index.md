@@ -1,6 +1,6 @@
 ---
 title: ON BIOCOSMISM
-menuTitle: Platform
+menuTitle: OUR PLATFORM
 ---
 
 
