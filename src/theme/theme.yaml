@@ -142,7 +142,7 @@ hero:
 blog:
   h1:
     size: *font-size-l
-    lineHeight: *font-line-height-xs
+    lineHeight: *font-line-height-m
     hoverColor: *color-brand-primary
 header:
   height:

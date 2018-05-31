@@ -120,12 +120,20 @@ class Layout extends React.Component {
                     ? "'do hyeon', monospace;"
                     : "'do hyeon', monospace;"};
                   font-weight: ${this.state.font300loaded ? 300 : 300};
-                  line-height: 1.1;
-                  letter-spacing: -0.03em;
+                  line-height: 1;
+                  letter-spacing: 0em;
+                  word-spacing: -0.3em;
                   margin: 0;
                 }
                 h1 {
-                  letter-spacing: -0.04em;
+                  letter-spacing: -0.03em;
+                  line-height: 1.2;
+                  border-width: .1em;
+                  border-color: inherit;
+                  border-style: solid;
+                  border-radius: 1px;
+                  text-align: center;
+                  padding: .3em .3em;
                 }
                 p {
                   margin: 0;

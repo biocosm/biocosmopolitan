@@ -243,7 +243,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          `do hyeon`,
+          `do hyeon\:300,400,600`,
           `raleway\:400,600`
         ]
       }

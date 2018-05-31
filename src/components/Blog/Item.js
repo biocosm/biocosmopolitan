@@ -102,7 +102,7 @@ const Item = props => {
         }
 
         h1 {
-          padding: ${theme.space.m} ${theme.space.s} 0;
+          padding: ${theme.space.m} ${theme.space.s} ;
           line-height: ${theme.blog.h1.lineHeight};
           font-size: ${theme.blog.h1.size};
           text-remove-gap: both;
@@ -140,7 +140,7 @@ const Item = props => {
         @from-width tablet {
           li {
             margin: ${`calc(${theme.space.default} * 3) 0 calc(${theme.space.default} * 4)`};
-            padding: ${theme.space.default};
+            padding: ${`calc(${theme.space.default} ${theme.space.default} * 1.5)`};
 
             &::after {
               bottom: ${`calc(${theme.space.default} * -2)`};
@@ -155,7 +155,7 @@ const Item = props => {
 
           h1 {
             font-size: ${`calc(${theme.blog.h1.size} * 1.2)`};
-            padding: ${`calc(${theme.space.default} * 1.5) ${theme.space.default} 0`};
+            padding: ${theme.space.m} ${theme.space.s};
             transition: all 0.5s;
           }
           .meta {
@@ -186,7 +186,7 @@ const Item = props => {
           }
           h1 {
             font-size: 2.5em;
-            padding: ${`calc(${theme.space.default} * 1.2) calc(${theme.space.default} * 2) 0`};
+            padding:${theme.space.m} ${theme.space.s};
           }
           .meta {
             padding: ${`calc(${theme.space.default} * 1.5) calc(${theme.space.default} * 2)

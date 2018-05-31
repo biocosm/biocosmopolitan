@@ -28,7 +28,7 @@ The planet is a choir of species. Struck with insights no other creature can see
 
 Everywhere on Earth, whether wind-blown rock or polar ice or ocean-floor volcano, some enterprising critter has found a way to eke out a living. Life finds a way.
 
-Our drive to explore is not the product of a few centuries of extractionist empires. For thousands of years, humans just walked everywhere. We spread across the globe on nothing but legs and wits. Like DNA itself, we have the urge to see new places, eat new foods, learn new things. But to a degree beyond any other species, we have effectively found every piece of land. 
+Our drive to explore is not the product of a few centuries of extractionist empires. For thousands of years, humans just walked everywhere. We spread across the globe on nothing but legs and wits. Like DNA itself, we have the urge to see new places, eat new foods, learn new things. But to a degree beyond any other species, we have effectively found every piece of land.
 
 There's plenty of other places in the universe, both underwater and in space. But of places with roughly one gee and one atmospheric pressure, there are almost none left to discover.
 

@@ -1,37 +1,51 @@
 ---
-title: ON BIOCOSMISM
+title: THIS IS A WEBSITE
 menuTitle: About
 ---
-## DESIRE
-### It is our desire to communize the universe and seed our selves beyond the world.
+<!-- What -->
+## BIOCOSMOPOLITAN IS A WEBSITE
 
-Space probably is not dead, but we don't know for sure so let's find out.
+### The internet. You've heard of it.
 
+Behold: BIOCOSMOPOLITAN! We are not a journal, a magazine, a broadsheet, or a tabloid. We are a website: a crossroads in cyberspace where signs point in every direction.
 
-## RESISTANCE FUTILE
-### Resistance to space exploration will not prevent space exploration.
+<!-- Where -->
+## BIOCOSMOPOLITAN IS A SPACE PLATFORM
 
-Resistance to space exploration will prevent your participation, destroy your power, and limit your options when space exploration bears fruit. Already the earth is claimed by states, and surveilled by satellites. The last remaining free places are being strangled by the encroaching apparatus of capitalism and industry. Much disrespect to those who are content to squat these last free places, and placidly wait for the end.
+We are unapologetically opinionated. BIOCOSMOPOLITAN is an up-wing news and media platform.
 
+We publish news, reviews, columns, and podcasts from a pan-human, egalitarian, interplanetary perspective. We support efforts to transcend death, gravity, entropy, and all other limitations. We oppose all systems of control and oppression.
 
+See our [platform](/biocosm) for details.
 
+<!-- Who -->
+## BIOCOSMOPOLITAN IS A COMMUNITY
 
-## PRECEPTS
+The ad-supported news media doesn't want to envision a fully automated luxury future. We at BIOCOSMOPOLITAN are completely worker- and reader-supported and owe our allegiance only to Utopia.
 
-###  Any self should live as long as it chooses to live.
-
-This goes for humans and nonhumans, post humans, sentient animals, and emotional intelligences. This is a value statement. It does not have to be possible. Very simply, it is better to live, until it isn't.
-
-### Any self should be able to go anywhere.
-
-Movements in space and time, as well as movements in other dimensions or measureable characteristics, are not the domain of the self, these acts are the actual material of which the self consists. There is nothing inherent in space or time that calls into question the ability of selves to change, to flow, and to migrate. The only real law is that no act shall be perfectly repeated, as expressed by the creation of entropy in time.
-
-
-### These selves acting up and moving around will eventually run into each other and interact.
-
-There is no ethic, no morality, and no philosophy that will prevent atrocities and self destruction. Only action, knowledge and luck can prevent the destruction of specific selves. Each circumstance is unique, and doctrines are not truth but preference.
+We want your opinions, your research notes, your recorded works and spectacular images. [Send them to us](/donate), and we will put them in a fancy place, in for public consumption, in good company amongst other biocosmic singularities.  
 
 
-###  The selves intermingle.
+<!-- When -->
+## BIOCOSMOPOLITAN IS FOR THE FUTURE
 
-Why shouldn't individuals communize to create larger organisms which are new individuals? On what scale should this process be limited?
+As denizens of the earth, we cannot be neutral in dealing with the powers of nature and of humankind. The twenty-first century will see overwhelming change in climate, in automation, in biotech, in war and netwar and politics. Someone must take a stand for the future, for the lives of our great-great-grandchildren.
+
+We want every human generation to have a better life than their parents. To do this, we must also steward the biosphere and the technosphere. Humanity and our tools are intimately dependent on the living systems of sea and soil and slime that surround us. We need our home planet to be stable, to have a healthy climate and a thriving ecology, if we want to have any chance at expanding the biocosm to the stars.
+
+We will settle for nothing less than Utopia, but we can't demand all changes to happen at once. We build, pragmatically, but with haste, toward the techniques and technologies that will sustain our world for seven generations.
+
+We are biocosmists. At night we sleep, and in the days we build the futures of which we dream.
+
+
+
+<!-- Why -->
+## BIOCOSMOPOLITAN IS CRUCIAL
+
+We are at the threshold of a new kind of humanity. We have true knowledge of the world and the power to change it. We can tap the power of the atom and see the edge of the universe.
+
+And yet we squabble and fight over ancient, wrongheaded ideas. Religion, ideology, nationalism: all distractions from the true purpose of the biocosm. There is no forum for those of us who would discuss grand visions and band together to make them come true.
+
+We offer this website as a crucial meeting place for the those of the up-wing persuasion. We don't have to agree on everything. There is no One True Faith of biocosmism. We come together to discuss, to strategize, to celebrate and to mourn, as we travel forward in time on this spinning blue rock.
+
+# WE'RE NOT LOCKED IN HERE WITH YOU. YOU'RE LOCKED IN HERE WITH US.
