@@ -1,20 +1,20 @@
 ---
-title: 'fORGET #vAnLiFe.  #CANLIFE IS THE END OF HISTORY IN THE WORST WAY POSSIBLE'
+title: 'FORGET #VANLIFE, #CANLIFE IS THE END OF HISTORY '
 date: '2018-06-05T19:28:13-07:00'
 category: '#CANLIFE'
 author: mkb01
 ---
 # 
 
-## PART ONE: THE PEOPLE WHO LIVE IN THEIR SHOES
+## PART ONE: "NOW AND THEN"
+
+![NO ](/images/uploads/cansubway.png)
 
 ## **The Now**
 
 The boomers are retiring. The pensions are coming due, and the tight budgeted retirement awaits. A lifetime spent working for the Man, and it’s time for Claude and Maude Workinstiff to don the sweater vest and go watch the sunset over the walmart parking lot. Maude turns her stiff papery neck to crackle at Claude,  "Look, honey! Youngsters!" Two people of the generation that came after them, going from gig to gig, on an eternal first tinder date with careers. They sleep in the same parking lot. 
 
-Remember that time we invaded Afghanistan and flooded the States with heroin? Me too. More denizens of the parking lot. And i’ll be there too, with that big dirty stinkin bassline fuckin up your civil evening. Just cuz yer living the free and easy life of a motorbum, doesn’t mean you gotta suck Tech Money ass for christ sake.
-
-_**{NSA vacation time security culture poster}**_
+Remember that time we invaded Afghanistan and flooded the States with heroin? Me too. More denizens of the parking lot. And i’ll be there too, with that big dirty stinkin bassline fuckin up your civil evening. Just cuz yer living the free and easy life of a motorbum, doesn’t mean you gotta suck Tech Money ass for christ sake
 
 Let me tell you something, rube. Elon Musk doesn’t give a flying fuck how many workers pass out on the line in the Tesla factory. The pharoahs didn’t give a shit how many people died building the pyramids. Monocle T Moneybags didn’t give give a shit how many people died building the railroads, and he wont give a fuck how many workers starve and choke in the asteroid mines. Make all the noise you want about how things used to be, but certain changes are long overdue around here.
 
@@ -26,11 +26,13 @@ Most people, little people, the wealth they accumulate in their whole life iS ca
 
 Now that the ratfuck landlord is in the whitehouse, lotsa booj gonna default on that mortgage. They know it, you know it, we all know it.  So these worried little booj gotta do shit like this:
 
-_**\#vanlife image thread**_
+[**_https://www.curbed.com/2018/5/11/17343768/camper-for-sale-vanlife-conversion-van_**](https://www.curbed.com/2018/5/11/17343768/camper-for-sale-vanlife-conversion-van)
 
-_**https://www.curbed.com/2018/5/11/17343768/camper-for-sale-vanlife-conversion-van**_
+![](/images/uploads/vanlifemagazine.jpg)
 
-_**{the grouch IGD link}**_
+[ _Image: These People Piss In Jars_ ]
+
+
 
 You live in a van down by the river. The booj just bought a 60k superdeluxe, and they WANT that riverside spot. You gonna get neighbors. So here's what. Scope Seattle. Scope Portland. #VANLIFE, motherfucker. It's taking up all the parking spots around every park in Portland. It's under every over pass in Seattle. It's oozing out those tiny fuckin insult houses that trickled down the leg of polite liberal society.
 
@@ -38,7 +40,9 @@ California just legalized weed. Those few sellout ratfucks that went legal did i
 
 Tell you what. We are about to freak the fuck out in this country. Fuck your paper, booj. Fuck your citizenship test, motherfucker. Fuck your driving license. This is #VANLIFE, motherfucker. We need safe harbors, and circled wagons. We need clean water and fresh ammunition, because shit is about to get fucked up.
 
-_**https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Flatimesphoto.files.wordpress.com%2F2014%2F03%2F1783333_me_homeless_parking_13_brv.jpg&f=1**_
+![](/images/uploads/wat.jpeg)
+
+[_ Image: That face when some asshole with a salary comes around asking stupid questions. _]
 
 Get the fuck out of my face with your tiny home. You want to retire your dumb ass in a shed? I want to see some blood motherfucker. You gonna eat that, motherfucker? Hand it over mother fucker. This is not the future you promised your children. This is bullshit.
 
@@ -46,9 +50,9 @@ You know what? Fuck Instagram phoneys anyway. If we make our own hash, we can ma
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\**
 
-## **TheN**
+## **Then**
 
-_**https://www.youtube.com/watch?v=D2q9W5tcKOM**_
+[**_https://www.youtube.com/watch?v=D2q9W5tcKOM_**](https://www.youtube.com/watch?v=D2q9W5tcKOM)
 
 \#CANLIFE is cowboy communism, it is the smelly reality of people forced to insulate themselves from an alien and unpredictable environment. It is a survival strategy. It is beer and tuna and vienna brand chicken dicks. It’s prison and booty and the front lines of natural disaster. Good and bad people and things come in cans.
 
@@ -98,6 +102,6 @@ But a can must enclose completely, in order to enclose at all. A pinhole of rust
 
 If all the people living in cans went on the fritz today, this world of lords and property would be rolled off the the side of a NorCal mountain road before you got back from the beer run. And then we'd get drunk and shoot the damn thing til the gas tank started leaking. And then we'd nuke the motherfucker and haul ass, whooping and hollering like morons in love. 
 
-**END PART ONE : "THE PEOPLE WHO LIVE IN THIER SHOES"**
+**END PART ONE : "NOW AND THEN"**
 
 **Tune in next week for PART TWO:  "NO, BUDDY. AFTER _YOU!"_**
