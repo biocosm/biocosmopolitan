@@ -255,6 +255,15 @@ module.exports = {
           `raleway\:400,600`
         ]
       }
-    }
+    },
+    {
+      resolve: `gatsby-plugin-nprogress`,
+      options: {
+        // Setting a color is optional.
+        color: `#1eaedb`,
+      // Disable the loading spinner.
+        showSpinner: false,
+    },
+  },
   ]
 };

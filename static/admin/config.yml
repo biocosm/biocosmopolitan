@@ -12,9 +12,9 @@ media_folder: static/images/uploads
 public_folder: images/uploads
 
 collections:
-  - name: blog
-    label: Blog
-    folder: content/posts/uploads
+  - name: "blog"
+    label: "Blog"
+    folder: "content/posts/uploads"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
@@ -23,3 +23,38 @@ collections:
      - {label: "Body", name: "body", widget: "markdown"}
      - {label: "Category", name: "category", widget: "string"}
      - {label: "Author", name: "author", widget: "string"}
+
+  - name: pages
+    label: "Pages"
+    files:
+      - name: "about"
+        label: "About"
+        file: "content/pages/1--about/index.md"
+        description: "Site Mission and Excuses"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+
+      - name: "platform"
+        label: "Platform"
+        file: "content/pages/2--biocosm/index.md"
+        description: "Space Platform Soapbox"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+
+      - name: "donate"
+        label: "Donate"
+        file: "content/pages/3--donate/index.md"
+        description: "Money Bucket"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+
+      - name: "contribute"
+        label: "Contribute"
+        file: "content/pages/4--contribute/index.md"
+        description: "Give us your tired, your sweaty, your broken iphone"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
