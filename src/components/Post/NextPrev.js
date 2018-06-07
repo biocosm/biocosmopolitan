@@ -9,11 +9,11 @@ const NextPrev = props => {
   const {
     theme,
     next: {
-      fields: { prefix: nextPrefix, slug: nextSlug } = {},
+      fields: { date: nextPrefix, slug: nextSlug } = {},
       frontmatter: { title: nextTitle } = {}
     } = {},
     prev: {
-      fields: { prefix: prevPrefix, slug: prevSlug } = {},
+      fields: { date: prevPrefix, slug: prevSlug } = {},
       frontmatter: { title: prevTitle } = {}
     } = {}
   } = props;
