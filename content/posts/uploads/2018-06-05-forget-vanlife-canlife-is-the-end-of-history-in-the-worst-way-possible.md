@@ -7,7 +7,7 @@ cover:  ../../../static/images/uploads/vanlifemagazine.jpg
 ---
 ## PART ONE: "NOW AND THEN"
 
-![a guy on the subway with like ten bags of recyclable cans ](images/uploads/cansubway.png)
+![a guy on the subway with like ten bags of recyclable cans ](../../../static/images/uploads/cansubway.png)
 
 ## **Now**
 
@@ -25,7 +25,7 @@ Now that the ratfuck landlord is in the whitehouse, lotsa booj gonna default on 
 
 [_**https://www.curbed.com/2018/5/11/17343768/camper-for-sale-vanlife-conversion-van**_](https://www.curbed.com/2018/5/11/17343768/camper-for-sale-vanlife-conversion-van)
 
-![two young white people in a conversion van on the beach](images/uploads/vanlifemagazine.jpg)
+![two young white people in a conversion van on the beach](../../../static/images/uploads/vanlifemagazine.jpg)
 
 [ _Image: These People Piss In Jars_ ]
 
@@ -35,7 +35,7 @@ California just legalized weed. Those few sellout ratfucks that went legal did i
 
 Tell you what. We are about to freak the fuck out in this country. Fuck your paper, booj. Fuck your citizenship test, motherfucker. Fuck your driving license. This is #VANLIFE, motherfucker. We need safe harbors, and circled wagons. We need clean water and fresh ammunition, because shit is about to get fucked up.
 
-![two guys squinting out of a beat up trailer](images/uploads/wat.jpeg)
+![two guys squinting out of a beat up trailer](../../../static/images/uploads/wat.jpeg)
 
 [_Image: That face when some asshole with a salary comes around asking stupid questions._]
 
