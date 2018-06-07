@@ -13,7 +13,7 @@ public_folder: images/uploads
 
 collections:
   - name: "blog"
-    label: "Blog ----- REMEMBER, due to upstream issues we have weird image stuff going on rn. just do everything like normal, but before you publish, go to Markdown mode and remove the leading slash from every image source. like if it says ![alt text](/images/uploads/apig.jpg) just make it say ![alt text](images/uploads/apig.jpg). the preview will look fucked up but this is a good sign, just publish. see how the images look better and scale to screen size? THANKS "
+    label: "Blog ----- REMEMBER, due to upstream issues we have weird image stuff going on rn. just do everything like normal, but before you publish, go to Markdown mode and add this on the front of each image source: "../../../static". like if it says ![alt text](/images/uploads/apig.jpg), make it say ![alt text](../../../static/images/uploads/apig.jpg). the preview will look fucked up but this is a good sign, just publish. see how the images look better and scale to screen size? THANKS "
     folder: "content/posts/uploads"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
