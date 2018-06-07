@@ -70,6 +70,13 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        path: `${__dirname}/static/images/uploads/`,
+        name: "uploads"
+      }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         path: `${__dirname}/content/posts/`,
         name: "posts"
       }
@@ -86,13 +93,6 @@ module.exports = {
       options: {
         name: "parts",
         path: `${__dirname}/content/parts/`
-      }
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/static/images/uploads/`,
-        name: "uploads"
       }
     },
     {
@@ -121,8 +121,6 @@ module.exports = {
           },
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
-          `gatsby-remark-smartypants`
-
         ]
       }
     },

@@ -13,19 +13,22 @@ public_folder: images/uploads
 
 collections:
   - name: "blog"
-    label: "Blog"
+    label: "Blog ----- REMEMBER, due to upstream issues we have weird image stuff going on rn. just do everything like normal, but before you publish, go to Markdown mode and remove the leading slash from every image source. like if it says ![alt text](/images/uploads/apig.jpg) just make it say ![alt text](images/uploads/apig.jpg). the preview will look fucked up but this is a good sign, just publish. see how the images look better and scale to screen size? THANKS "
     folder: "content/posts/uploads"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    description:
     fields:
      - {label: "Title", name: "title", widget: "string"}
      - {label: "Publish Date", name: "date", widget: "datetime"}
+     - {label: "Cover Image", name: "cover", widget: "file"}
      - {label: "Body", name: "body", widget: "markdown"}
      - {label: "Category", name: "category", widget: "string"}
      - {label: "Author", name: "author", widget: "string"}
 
   - name: pages
-    label: "Pages"
+    label: "Pages -- you can't delete these or add more from this interface, but you can edit them"
+    delete: false
     files:
       - name: "about"
         label: "About"

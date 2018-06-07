@@ -133,7 +133,7 @@ class Layout extends React.Component {
                   border-style: solid;
                   border-radius: 1px;
                   text-align: center;
-                  padding: .3em .3em;
+                  padding: .3em;
                   text-transform: uppercase
                 }
                 p {
@@ -175,7 +175,7 @@ export const postQuery = graphql`
   query LayoutQuery {
     pages: allMarkdownRemark(
       filter: { id: { regex: "//pages//" }, fields: { prefix: { regex: "/^\\d+$/" } } }
-      sort: { fields: [frontmatter___date], order: ASC }
+      sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {
         node {

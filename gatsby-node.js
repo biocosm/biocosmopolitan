@@ -6,7 +6,11 @@ const Promise = require("bluebird");
 
 const { createFilePath } = require(`gatsby-source-filesystem`);
 
+const { fmImagesToRelative } = require('gatsby-remark-relative-images');
 
+exports.onCreateNode = ({ node }) => {
+  fmImagesToRelative(node);
+};
 
 exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
   const { createNodeField } = boundActionCreators;
@@ -40,7 +44,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           {
             allMarkdownRemark(
               filter: { id: { regex: "//posts|pages//" } }
-              sort: { fields: [frontmatter___date], order: ASC }
+              sort: { fields: [frontmatter___date], order: DESC }
               limit: 1000
             ) {
               edges {

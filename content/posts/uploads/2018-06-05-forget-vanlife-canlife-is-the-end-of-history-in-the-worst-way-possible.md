@@ -3,12 +3,13 @@ title: 'FORGET #VANLIFE, #CANLIFE IS THE END OF HISTORY '
 date: '2018-06-05T19:28:13-07:00'
 category: '#CANLIFE'
 author: mkb01
+cover:  ../../../static/images/uploads/vanlifemagazine.jpg
 ---
 ## PART ONE: "NOW AND THEN"
 
 ![a guy on the subway with like ten bags of recyclable cans ](images/uploads/cansubway.png)
 
-## **The Now**
+## **Now**
 
 The boomers are retiring. The pensions are coming due, and the tight budgeted retirement awaits. A lifetime spent working for the Man, and it’s time for Claude and Maude Workinstiff to don the sweater vest and go watch the sunset over the Walmart parking lot. Maude turns her stiff papery neck to crackle at Claude,  "Look, honey! Youngsters!" Two people of the generation that came after them, going from gig to gig, on an eternal first Tinder date with careers. They sleep in the same parking lot.
 
@@ -18,15 +19,13 @@ Let me tell you something, rube. Elon Musk doesn’t give a flying fuck how many
 
 But before I go and shatter your primitive conception of the Utopian Future ruled over by loving machines of the infotainment industry, let's take a dancing tour through time, to discover why there's so many fucking RVs and camper vans suddenly taking up every parking space on the west coast.
 
-- - -
-
 Most people, little people, the wealth they accumulate in their whole life is caught up in their house. I'm talking about the boojwah here, in the communist sense. The booj are the real people. They count, you don't. The booj got a job with benefits. The booj bought a house. The booj chases that dollar to pay that mortgage for most of the booj adult life, and when they finish up paying for that house, the booj is too caught up to think about anything past Married With Children. Sure, they make noises. Some times they hold signs. But the booj isn’t going the stop the gestapo. The booj doesn’t like talking about their weight, their age, or their dick size. The booj isn’t going to stop whats coming. Too busy payin that mortgage.
 
 Now that the ratfuck landlord is in the whitehouse, lotsa booj gonna default on that mortgage. They know it, you know it, we all know it.  So these worried little booj gotta do shit like this:
 
 [_**https://www.curbed.com/2018/5/11/17343768/camper-for-sale-vanlife-conversion-van**_](https://www.curbed.com/2018/5/11/17343768/camper-for-sale-vanlife-conversion-van)
 
-![two young white people in a conversion van on the beach](../../../static/images/uploads/vanlifemagazine.jpg)
+![two young white people in a conversion van on the beach](images/uploads/vanlifemagazine.jpg)
 
 [ _Image: These People Piss In Jars_ ]
 
@@ -36,7 +35,7 @@ California just legalized weed. Those few sellout ratfucks that went legal did i
 
 Tell you what. We are about to freak the fuck out in this country. Fuck your paper, booj. Fuck your citizenship test, motherfucker. Fuck your driving license. This is #VANLIFE, motherfucker. We need safe harbors, and circled wagons. We need clean water and fresh ammunition, because shit is about to get fucked up.
 
-![two guys squinting out of a beat up trailer](../../../static/images/uploads/wat.jpeg)
+![two guys squinting out of a beat up trailer](images/uploads/wat.jpeg)
 
 [_Image: That face when some asshole with a salary comes around asking stupid questions._]
 
@@ -48,7 +47,7 @@ You know what? Fuck Instagram phoneys anyway. If we make our own hash, we can ma
 
 ## **Then**
 
-[_**https://www.youtube.com/watch?v=D2q9W5tcKOM**_](https://www.youtube.com/watch?v=D2q9W5tcKOM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D2q9W5tcKOM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 \#CANLIFE is cowboy communism, it is the smelly reality of people forced to insulate themselves from an alien and unpredictable environment. It is a survival strategy. It is beer and tuna and vienna brand chicken dicks. It’s prison and booty and the front lines of natural disaster. Good and bad people and things come in cans.
 
@@ -69,6 +68,8 @@ The trailer park came into existence to make sure the ammunition factories were 
 The people who lived in these camps could afford to own their house, but not the land under it. Houses, which usually increase in value, allow the owner to spend decades paying back loans because those loans don’t explode exponentially with massive interest rates. (Except that one time in 2008, which we apparently allow the fascists to blame on avocado toast and black people.) Auto-loans explode. Auto-loans have higher interest rates and allow you to buy things that decrease in value. After the original theft of “America” from Indiana, people who got land cheap\* retain advantages over those who didn’t get a continent handed to them on a silver platter by small pox. (\*I didn’t say ‘stolen’ in order to not fuck up your gentle sensibilities. You’re welcome.) The class divide is neatly summed up by what type of loan you are paying off: Mortgage, auto loans, or bail bonds. In other words: Owners, Customers, Products.
 
 What does this have to do with cans?
+
+-----
 
 ## NOW AGAIN
 

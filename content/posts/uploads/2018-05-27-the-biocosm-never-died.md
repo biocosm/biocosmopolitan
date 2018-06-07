@@ -6,7 +6,7 @@ author: virus-B
 cover: ../../../static/images/uploads/earthrise.jpg
 ---
 
-![earthrise photo 1968](earthrise.jpg)
+![earthrise photo 1968](/images/uploads/earthrise.jpg)
 
 Throughout the history of this world, one life-form has never ended. DNA, the wriggly self-replicating program written in chemical language, the selfish gene that forwards its own agenda, the patient pattern that permutes and proliferates. DNA never dies, only the actors who play it.
 
