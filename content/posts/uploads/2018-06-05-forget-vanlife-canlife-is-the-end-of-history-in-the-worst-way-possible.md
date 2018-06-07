@@ -3,12 +3,10 @@ title: 'FORGET #VANLIFE, #CANLIFE IS THE END OF HISTORY '
 date: '2018-06-05T19:28:13-07:00'
 category: '#CANLIFE'
 author: mkb01
-cover: ../../../static/images/uploads/vanlifemagazine.jpg
 ---
-
 ## PART ONE: "NOW AND THEN"
 
-![a guy on the subway with like ten bags of recyclable cans ](../../../static/images/uploads/cansubway.png)
+![a guy on the subway with like ten bags of recyclable cans ](images/uploads/cansubway.png)
 
 ## **The Now**
 
@@ -20,18 +18,17 @@ Let me tell you something, rube. Elon Musk doesn’t give a flying fuck how many
 
 But before I go and shatter your primitive conception of the Utopian Future ruled over by loving machines of the infotainment industry, let's take a dancing tour through time, to discover why there's so many fucking RVs and camper vans suddenly taking up every parking space on the west coast.
 
------
+- - -
+
 Most people, little people, the wealth they accumulate in their whole life is caught up in their house. I'm talking about the boojwah here, in the communist sense. The booj are the real people. They count, you don't. The booj got a job with benefits. The booj bought a house. The booj chases that dollar to pay that mortgage for most of the booj adult life, and when they finish up paying for that house, the booj is too caught up to think about anything past Married With Children. Sure, they make noises. Some times they hold signs. But the booj isn’t going the stop the gestapo. The booj doesn’t like talking about their weight, their age, or their dick size. The booj isn’t going to stop whats coming. Too busy payin that mortgage.
 
 Now that the ratfuck landlord is in the whitehouse, lotsa booj gonna default on that mortgage. They know it, you know it, we all know it.  So these worried little booj gotta do shit like this:
 
-[**_https://www.curbed.com/2018/5/11/17343768/camper-for-sale-vanlife-conversion-van_**](https://www.curbed.com/2018/5/11/17343768/camper-for-sale-vanlife-conversion-van)
+[_**https://www.curbed.com/2018/5/11/17343768/camper-for-sale-vanlife-conversion-van**_](https://www.curbed.com/2018/5/11/17343768/camper-for-sale-vanlife-conversion-van)
 
 ![two young white people in a conversion van on the beach](../../../static/images/uploads/vanlifemagazine.jpg)
 
 [ _Image: These People Piss In Jars_ ]
-
-
 
 You live in a van down by the river. The booj just bought a 60k superdeluxe, and they WANT that riverside spot. You gonna get neighbors. So here's what. Scope Seattle. Scope Portland. #VANLIFE, motherfucker. It's taking up all the parking spots around every park in Portland. It's under every over pass in Seattle. It's oozing out those tiny fuckin insult houses that trickled down the leg of polite liberal society.
 
@@ -41,17 +38,17 @@ Tell you what. We are about to freak the fuck out in this country. Fuck your pap
 
 ![two guys squinting out of a beat up trailer](../../../static/images/uploads/wat.jpeg)
 
-[*Image: That face when some asshole with a salary comes around asking stupid questions.*]
+[_Image: That face when some asshole with a salary comes around asking stupid questions._]
 
 Get the fuck out of my face with your tiny home. You want to retire your dumb ass in a shed? I want to see some blood motherfucker. You gonna eat that, motherfucker? Hand it over mother fucker. This is not the future you promised your children. This is bullshit.
 
 You know what? Fuck Instagram phoneys anyway. If we make our own hash, we can make our own hashtags. #VANLIFE, meet #CANLIFE, and tremble!
 
-------
+- - -
 
 ## **Then**
 
-[**_https://www.youtube.com/watch?v=D2q9W5tcKOM_**](https://www.youtube.com/watch?v=D2q9W5tcKOM)
+[_**https://www.youtube.com/watch?v=D2q9W5tcKOM**_](https://www.youtube.com/watch?v=D2q9W5tcKOM)
 
 \#CANLIFE is cowboy communism, it is the smelly reality of people forced to insulate themselves from an alien and unpredictable environment. It is a survival strategy. It is beer and tuna and vienna brand chicken dicks. It’s prison and booty and the front lines of natural disaster. Good and bad people and things come in cans.
 
