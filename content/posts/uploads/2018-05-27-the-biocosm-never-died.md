@@ -2,7 +2,7 @@
 title: The Biocosm Never Died
 date: '2018-05-27T15:15:42-06:00'
 category: biocosmism
-author: Wikipedia Brown
+author: virus-B
 cover: ../../../static/images/uploads/earthrise.jpg
 ---
 

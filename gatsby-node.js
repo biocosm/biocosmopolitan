@@ -5,7 +5,7 @@ const path = require("path");
 const Promise = require("bluebird");
 
 const { createFilePath } = require(`gatsby-source-filesystem`);
-  
+
 
 
 exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
@@ -40,7 +40,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
           {
             allMarkdownRemark(
               filter: { id: { regex: "//posts|pages//" } }
-              sort: { fields: [fields___prefix], order: DESC }
+              sort: { fields: [frontmatter___date], order: ASC }
               limit: 1000
             ) {
               edges {
@@ -53,6 +53,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                   frontmatter {
                     title
                     category
+                    date
                   }
                 }
               }

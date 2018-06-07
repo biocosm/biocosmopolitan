@@ -12,11 +12,12 @@ const Item = props => {
     theme,
     post: {
       excerpt,
-      fields: { slug, date },
+      fields: { slug },
       frontmatter: {
         title,
         category,
         author,
+        date,
         cover: {
           children: [{ sizes }]
         }

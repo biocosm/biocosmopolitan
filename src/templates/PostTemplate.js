@@ -63,6 +63,7 @@ export const postQuery = graphql`
         title
         author
         category
+        date(formatString: "DD MMMM, 0YYYY")
         cover {
           childImageSharp {
             resize(width: 300) {

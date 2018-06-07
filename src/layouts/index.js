@@ -134,6 +134,7 @@ class Layout extends React.Component {
                   border-radius: 1px;
                   text-align: center;
                   padding: .3em .3em;
+                  text-transform: uppercase
                 }
                 p {
                   margin: 0;
@@ -148,6 +149,9 @@ class Layout extends React.Component {
                 main {
                   width: auto;
                   display: block;
+                }
+                hr {
+                  margin-bottom: 1em;
                 }
               `}</style>
             </React.Fragment>
@@ -171,7 +175,7 @@ export const postQuery = graphql`
   query LayoutQuery {
     pages: allMarkdownRemark(
       filter: { id: { regex: "//pages//" }, fields: { prefix: { regex: "/^\\d+$/" } } }
-      sort: { fields: [fields___prefix], order: ASC }
+      sort: { fields: [frontmatter___date], order: ASC }
     ) {
       edges {
         node {
@@ -182,6 +186,7 @@ export const postQuery = graphql`
           frontmatter {
             title
             menuTitle
+            date
           }
         }
       }

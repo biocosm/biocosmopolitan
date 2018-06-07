@@ -76,7 +76,7 @@ export const guery = graphql`
   query IndexQuery {
     posts: allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "//posts/" } }
-      sort: { fields: [fields___prefix], order: DESC }
+      sort: { fields: [frontmatter___date], order: DESC }
     ) {
       edges {
         node {
@@ -89,6 +89,7 @@ export const guery = graphql`
             title
             category
             author
+            date(formatString: "DD MMMM, 0YYYY")
             cover {
               children {
                 ... on ImageSharp {

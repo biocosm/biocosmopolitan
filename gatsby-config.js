@@ -84,7 +84,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `parts`,
+        name: "parts",
         path: `${__dirname}/content/parts/`
       }
     },
@@ -92,7 +92,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/static/images/uploads/`,
-        name: `uploads`
+        name: "uploads"
       }
     },
     {
@@ -100,6 +100,12 @@ module.exports = {
       options: {
         plugins: [
          `gatsby-plugin-sharp`,
+         {
+            resolve: 'gatsby-remark-relative-images',
+            options: {
+              name: 'uploads',
+            }
+          },
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -116,6 +122,7 @@ module.exports = {
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`
+
         ]
       }
     },
@@ -209,7 +216,7 @@ module.exports = {
               {
                 allMarkdownRemark(
                   limit: 1000,
-                  sort: { order: DESC, fields: [fields___prefix] },
+                  sort: { order: DESC, fields: [frontmatter___date] },
                   filter: { id: { regex: "//posts//" } }
                 ) {
                   edges {
@@ -222,6 +229,7 @@ module.exports = {
                       }
                       frontmatter {
                         title
+                        date(formatString: "YYYY-mm-DDThh:mm:ss")
                       }
                     }
                   }
