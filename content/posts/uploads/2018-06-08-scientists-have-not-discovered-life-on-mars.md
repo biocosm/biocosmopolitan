@@ -19,7 +19,7 @@ We don't know much about the compounds beyond the presence of carbon in forms th
 
 If similar to earth, then life on Mars (LOM) is plausibly of the same origin as Life on Earth (LOE), with Mars being the more likely origin. "Similar to Earth" we'll define as having the following characteristics:
 
-```
+
 Life has DNA.
 
 
@@ -33,7 +33,7 @@ Life happens inside a cell membrane.
 
 
 Living compounds have identical chirality (left hand / right hand isomers) as comparable compounds on Earth. For instance, amino acids are right handed, and sugars are left handed. Thats just how it is around here. If wacky-doodle microbe wants to put it's left hand on it's right butt cheek, we can't properly call that normal. And if Martian life happens to do it just like we do, then we can safely assume they learned from the best. Or we did, rather. Mars has less gravity and a thinner atmosphere, and it's more likely to have flung goop at Earth than the other way around.
-```
+
 
 If it turns out to be very different from Earth, LOM is evidence that the universe teems with biological activity. If life just so happens to exist on Earth, and just so happens to exist in a totally different form on the planet closest to Earth, doubting the existence of life elsewhere will have become much less reasonable. Living organisms containing structures totally different than DNA could very well saturate the universe.
 
