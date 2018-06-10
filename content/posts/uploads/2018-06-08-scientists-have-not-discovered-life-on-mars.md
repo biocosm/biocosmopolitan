@@ -20,19 +20,19 @@ We don't know much about the compounds beyond the presence of carbon in forms th
 If similar to earth, then life on Mars (LOM) is plausibly of the same origin as Life on Earth (LOE), with Mars being the more likely origin. "Similar to Earth" we'll define as having the following characteristics:
 
 
-Life has DNA.
+* Life has DNA.
 
 
 
-Life has some kind of metabolism that is recognizable as metabolism.
+* Life has some kind of metabolism that is recognizable as metabolism.
 
 
 
-Life happens inside a cell membrane.
+* Life happens inside a cell membrane.
 
 
 
-Living compounds have identical chirality (left hand / right hand isomers) as comparable compounds on Earth. For instance, amino acids are right handed, and sugars are left handed. Thats just how it is around here. If wacky-doodle microbe wants to put it's left hand on it's right butt cheek, we can't properly call that normal. And if Martian life happens to do it just like we do, then we can safely assume they learned from the best. Or we did, rather. Mars has less gravity and a thinner atmosphere, and it's more likely to have flung goop at Earth than the other way around.
+* Living compounds have identical chirality (left hand / right hand isomers) as comparable compounds on Earth. For instance, amino acids are right handed, and sugars are left handed. Thats just how it is around here. If wacky-doodle microbe wants to put it's left hand on it's right butt cheek, we can't properly call that normal. And if Martian life happens to do it just like we do, then we can safely assume they learned from the best. Or we did, rather. Mars has less gravity and a thinner atmosphere, and it's more likely to have flung goop at Earth than the other way around.
 
 
 If it turns out to be very different from Earth, LOM is evidence that the universe teems with biological activity. If life just so happens to exist on Earth, and just so happens to exist in a totally different form on the planet closest to Earth, doubting the existence of life elsewhere will have become much less reasonable. Living organisms containing structures totally different than DNA could very well saturate the universe.
@@ -43,67 +43,7 @@ In fact, the argument has been made that such microbes exist on Earth, and simpl
 
 Quoth Cleland:
 
-"of terran microbial life.
-
-Desert varnish, a mysterious hard dark coating
-
-found on rock in arid regions, provides perhaps the best candidate.
-
-There is no scientific consensus on how it is produced
-
-despite the fact that geologists have extensively studied it;
-
-even Darwin found it puzzling (Darwin, 1871, pp. 12–13).
-
-Consisting of extremely thin chemical and mineralogical
-
-layers, it bears an uncanny morphological resemblance
-
-to stromatolites, primitive microbial mats that still exist
-
-on Earth today, the fossilized remains of which date back
-
-at least 3.5 billion years. Even more provocatively, varnish
-
-coatings are enriched in manganese and iron despite
-
-the fact
-
-that the rocks on which they are found
-
-are not.
-
-To many geologists
-
-this intriguing combination of microstructural
-
-and chemical features suggests a microbial origin,
-
-particularly since bacteria and algae commonly produce
-
-manganese or iron as by-products of metabolism. Yet
-
-microbes are infrequently found on varnish surfaces,
-
-as they are on living stromatolites,
-
-and PCR analysis of 16S rRNA genes extracted from coatings
-
-and surrounding rocks and soils vary from region to region, suggesting that
-
-no one group of bacteria, let alone single variety, is responsible
-
-for the coatings (Perry et al., 2002). Furthermore,
-
-attempts to produce varnish-like coatings in laboratory settings
-
-using bacteria and algae have been unsuccessful.
-
-The question
-
-of whether desert varnish has a biological origin
-
-is thus still hotly debated."
+> "Desert varnish, a mysterious hard dark coating found on rock in arid regions, provides perhaps the best candidate. There is no scientific consensus on how it is produced despite the fact that geologists have extensively studied it; even Darwin found it puzzling (Darwin, 1871, pp. 12–13). Consisting of extremely thin chemical and mineralogical layers, it bears an uncanny morphological resemblance to stromatolites, primitive microbial mats that still exist on Earth today, the fossilized remains of which date back at least 3.5 billion years. Even more provocatively, varnish coatings are enriched in manganese and iron despite the fact that the rocks on which they are found are not. To many geologists this intriguing combination of microstructural and chemical features suggests a microbial origin, particularly since bacteria and algae commonly produce manganese or iron as by-products of metabolism. Yet microbes are infrequently found on varnish surfaces, as they are on living stromatolites, and PCR analysis of 16S rRNA genes extracted from coatings and surrounding rocks and soils vary from region to region, suggesting that no one group of bacteria, let alone single variety, is responsible for the coatings (Perry et al., 2002). Furthermore, attempts to produce varnish-like coatings in laboratory settings using bacteria and algae have been unsuccessful. The question of whether desert varnish has a biological origin is thus still hotly debated."
 
 "Shadow Biosphere" is a term that just might get you fork-stabbed at the Bio Department cafeteria. Desert varnish isn't the only example of hotly contested science on life's frontier. In California's Mono Lake, several scientists had themselves convinced they'd found a microbe that replaced the phosphorus in it's DNA with arsenic, making it not quite DNA, and thus, completely new. For those of you out there without the blessing of a background in biology, this would have been orders of magnitude stranger then having millions of penises for hair, or a blimp made of living puppies. It was so astoundingly alien and frankly impossible that the scientific community did not rest until it was proven that the arsenic replacement didn't quite happen. As it turns out, the microbe was simply capable of living almost entirely without phosphorus, in an arsenic rich environment that would have immediately killed every other known creature on Earth. The conflagration in the scientific community thus calmed, since this new state of affairs is only marginally more fucked up than having hot dogs for teeth.
 
