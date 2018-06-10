@@ -57,10 +57,21 @@ const Bodytext = props => {
           }
           :global(code.language-text) {
             text-shadow: none;
+            padding: 0.1em 0.3em 0.2em;
+            margin-bottom: 1em;
+            border-radius: 0.1em;
+          }
+          :global(blockquote) {
+            font-family: ${theme.font.family.head};
+            font-size: ${theme.font.size.s};
+            line-height: ${theme.font.lineHeight.s};
+            text-shadow: 1px 1px 60px ${theme.color.brand.primary};
             color: inherit;
             padding: 0.1em 0.3em 0.2em;
             border-radius: 0.1em;
+            margin: 0 0 1.5em;
           }
+
         }
 
         @keyframes bodytextEntry {

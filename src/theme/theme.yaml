@@ -141,7 +141,7 @@ hero:
   background: 'linear-gradient(0deg, #403f4c, #6d8ea0)'
 blog:
   h1:
-    size: *font-size-l
+    size: *font-size-xl
     lineHeight: *font-line-height-m
     hoverColor: *color-brand-primary
 header:

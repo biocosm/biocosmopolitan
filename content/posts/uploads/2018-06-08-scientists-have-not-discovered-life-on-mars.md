@@ -9,7 +9,10 @@ author: mkb01
 
 On June 7, 2018, NASA published a press release claiming that the Martian Rover, 'Curiosity,' has found organic  compounds in Martian soil.
 
-“Whether it holds a record of ancient life, was food for life, or has existed in the absence of life, organic matter in Martian materials holds chemical clues to planetary conditions and processes,” says Jen Eigenbrode, Superstar of NASA's Goddard Space Flight Center (https://www.nasa.gov/press-release/nasa-finds-ancient-organic-material-mysterious-methane-on-mars)
+## “Whether it holds a record of ancient life, was food for life, or has existed in the absence of life, organic matter in Martian materials holds chemical clues to planetary conditions and processes”
+
+says Jen Eigenbrode, Superstar of NASA's Goddard Space Flight Center
+(https://www.nasa.gov/press-release/nasa-finds-ancient-organic-material-mysterious-methane-on-mars).
 
 There are a large number of unfounded conclusions a human can draw from this study. However, all these conclusions are the result of excitement and sentiment getting the best of ponderous and exact study. Perhaps then, it is best if we simply name our sentiment, here at the beginining of the article. The presence of organic compounds on Mars is <i>very very nice</i>.
 
@@ -43,7 +46,69 @@ In fact, the argument has been made that such microbes exist on Earth, and simpl
 
 Quoth Cleland:
 
-> "Desert varnish, a mysterious hard dark coating found on rock in arid regions, provides perhaps the best candidate. There is no scientific consensus on how it is produced despite the fact that geologists have extensively studied it; even Darwin found it puzzling (Darwin, 1871, pp. 12–13). Consisting of extremely thin chemical and mineralogical layers, it bears an uncanny morphological resemblance to stromatolites, primitive microbial mats that still exist on Earth today, the fossilized remains of which date back at least 3.5 billion years. Even more provocatively, varnish coatings are enriched in manganese and iron despite the fact that the rocks on which they are found are not. To many geologists this intriguing combination of microstructural and chemical features suggests a microbial origin, particularly since bacteria and algae commonly produce manganese or iron as by-products of metabolism. Yet microbes are infrequently found on varnish surfaces, as they are on living stromatolites, and PCR analysis of 16S rRNA genes extracted from coatings and surrounding rocks and soils vary from region to region, suggesting that no one group of bacteria, let alone single variety, is responsible for the coatings (Perry et al., 2002). Furthermore, attempts to produce varnish-like coatings in laboratory settings using bacteria and algae have been unsuccessful. The question of whether desert varnish has a biological origin is thus still hotly debated."
+```
+"of terran microbial life.
+
+Desert varnish, a mysterious hard dark coating
+
+found on rock in arid regions, provides perhaps the best candidate.
+
+There is no scientific consensus on how it is produced
+
+despite the fact that geologists have extensively studied it;
+
+even Darwin found it puzzling (Darwin, 1871, pp. 12–13).
+
+Consisting of extremely thin chemical and mineralogical
+
+layers, it bears an uncanny morphological resemblance
+
+to stromatolites, primitive microbial mats that still exist
+
+on Earth today, the fossilized remains of which date back
+
+at least 3.5 billion years. Even more provocatively, varnish
+
+coatings are enriched in manganese and iron despite
+
+the fact
+
+that the rocks on which they are found
+
+are not.
+
+To many geologists
+
+this intriguing combination of microstructural
+
+and chemical features suggests a microbial origin,
+
+particularly since bacteria and algae commonly produce
+
+manganese or iron as by-products of metabolism. Yet
+
+microbes are infrequently found on varnish surfaces,
+
+as they are on living stromatolites,
+
+and PCR analysis of 16S rRNA genes extracted from coatings
+
+and surrounding rocks and soils vary from region to region, suggesting that
+
+no one group of bacteria, let alone single variety, is responsible
+
+for the coatings (Perry et al., 2002). Furthermore,
+
+attempts to produce varnish-like coatings in laboratory settings
+
+using bacteria and algae have been unsuccessful.
+
+The question
+
+of whether desert varnish has a biological origin
+
+is thus still hotly debated."
+```
 
 "Shadow Biosphere" is a term that just might get you fork-stabbed at the Bio Department cafeteria. Desert varnish isn't the only example of hotly contested science on life's frontier. In California's Mono Lake, several scientists had themselves convinced they'd found a microbe that replaced the phosphorus in it's DNA with arsenic, making it not quite DNA, and thus, completely new. For those of you out there without the blessing of a background in biology, this would have been orders of magnitude stranger then having millions of penises for hair, or a blimp made of living puppies. It was so astoundingly alien and frankly impossible that the scientific community did not rest until it was proven that the arsenic replacement didn't quite happen. As it turns out, the microbe was simply capable of living almost entirely without phosphorus, in an arsenic rich environment that would have immediately killed every other known creature on Earth. The conflagration in the scientific community thus calmed, since this new state of affairs is only marginally more fucked up than having hot dogs for teeth.
 
