@@ -60,7 +60,7 @@ const Contact = props => {
           {theme => (
             <Form onSubmit={handleSubmit} name="contact" data-netlify="true" data-netlify-honeypot="bot-field">
              <input type="hidden" name="form-name" value="contact" />
-              <FormItem label="Name">
+              <FormItem label="Name" name="n4me">
                 {getFieldDecorator("name", {
                   rules: [
                     {
@@ -69,7 +69,7 @@ const Contact = props => {
                   ]
                 })(<Input />)}
               </FormItem>
-              <FormItem label="E-mail">
+              <FormItem label="E-mail" name="em4il">
                 {getFieldDecorator("email", {
                   rules: [
                     {
@@ -81,7 +81,7 @@ const Contact = props => {
                   ]
                 })(<Input />)}
               </FormItem>
-              <FormItem label="Message">
+              <FormItem label="Message" name="mess4ge">
                 {getFieldDecorator("message", {
                   rules: [
                     { required: true, message: "Please input your message!", whitespace: true }
@@ -94,7 +94,7 @@ const Contact = props => {
                 )}
               </FormItem>
               <FormItem>
-                <Button type="primary" htmlType="submit">
+                <Button type="primary" htmlType="submit" name="su8mit">
                   Submit
                 </Button>
               </FormItem>
