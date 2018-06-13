@@ -1,159 +1,111 @@
-/* eslint no-unused-vars: 0 */
-
-import { navigateTo } from "gatsby-link";
-import Button from "antd/lib/button";
-import Form from "antd/lib/form";
-import Input from "antd/lib/input";
-import PropTypes from "prop-types";
 import React from "react";
+import { navigateTo } from "gatsby-link";
 
-const FormItem = Form.Item;
-const { TextArea } = Input;
-import "antd/lib/form/style/index.css";
-import "antd/lib/input/style/index.css";
-import "antd/lib/button/style/index.css";
-import { ThemeContext } from "../../layouts";
+function encode(data) {
+  return Object.keys(data)
+    .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
+    .join("&");
+}
 
-const Contact = props => {
-  const { getFieldDecorator } = props.form;
-
-  function encode(data) {
-    return Object.keys(data)
-      .map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
-      .join("&");
+export default class Contact extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {};
   }
 
-  function handleSubmit(e) {
+  handleChange = e => {
+    this.setState({ [e.target.name]: e.target.value });
+  };
+
+  handleSubmit = e => {
     e.preventDefault();
-    props.form.validateFields((err, values) => {
-      if (!err) {
-        console.log("Received values of form: ", values);
-        sendMessage(values);
-      }
-    });
-  }
-
-  function sendMessage(values) {
+    const form = e.target;
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "contact", ...values })
-    })
-      .then(() => {
-        console.log("Form submission success");
-        navigateTo("/success");
+      body: encode({
+        "form-name": form.getAttribute("name"),
+        ...this.state
       })
-      .catch(error => {
-        console.error("Form submission error:", error);
-        this.handleNetworkError();
-      });
-  }
+    })
+      .then(() => navigateTo(form.getAttribute("action")))
+      .catch(error => alert(error));
+  };
 
-  function handleNetworkError(e) {
-    console.log("submit Error");
-  }
+  render() {
+    return (
+      <div>
+        <h1>Contact</h1>
+        <form
+          name="contact"
+          method="post"
+          action="/thanks/"
+          data-netlify="true"
+          data-netlify-honeypot="bot-field"
+          onSubmit={this.handleSubmit}
+        >
+          {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
+          <input type="hidden" name="form-name" value="contact" />
+          <p hidden>
+            <label>
+              Don’t fill this out:{" "}
+              <input name="bot-field" onChange={this.handleChange} />
+            </label>
+          </p>
+          <br />
+          <p>
+            <label>
+              Your name:<br />
+              <input type="text" name="name" autocomplete="name" onChange={this.handleChange} />
+            </label>
+          </p>
+          <br />
+          <p>
+            <label>
+              Your email:<br />
+              <input type="email" name="email" autocomplete="email" onChange={this.handleChange} />
+            </label>
+          </p>
+          <br />
+          <p>
+            <label>
+              Your Message:<br />
+              <textarea name="message" cols="80" placeholder="A hundred year life span is not enough..." onChange={this.handleChange} />
+            </label>
+          </p>
+          <br />
+          <p>
+            <button type="submit">Send</button>
+          </p>
+          {/* --- STYLES --- */}
+          <style jsx>{`
+            input {
+              width: 100%;
+              height: 2rem;
+              caret-color: #1eaedb;
+              margin-bottom: .5rem;
+            }
 
-  return (
-    <React.Fragment>
-      <div className="form">
-        <ThemeContext.Consumer>
-          {theme => (
-            <Form onSubmit={handleSubmit} name="contact" data-netlify="true" data-netlify-honeypot="bot-field">
-             <input type="hidden" name="form-name" value="contact" />
-              <FormItem label="Name" name="n4me">
-                {getFieldDecorator("name", {
-                  rules: [
-                    {
-                      whitespace: true
-                    }
-                  ]
-                })(<Input />)}
-              </FormItem>
-              <FormItem label="E-mail" name="em4il">
-                {getFieldDecorator("email", {
-                  rules: [
-                    {
-                      required: true,
-                      message: "Please input your e-mail address!",
-                      whitespace: true,
-                      type: "email"
-                    }
-                  ]
-                })(<Input />)}
-              </FormItem>
-              <FormItem label="Message" name="mess4ge">
-                {getFieldDecorator("message", {
-                  rules: [
-                    { required: true, message: "Please input your message!", whitespace: true }
-                  ]
-                })(
-                  <TextArea
-                    placeholder="A hundred year life span is not enough. . . "
-                    autosize={{ minRows: 4, maxRows: 10 }}
-                  />
-                )}
-              </FormItem>
-              <FormItem>
-                <Button type="primary" htmlType="submit" name="su8mit">
-                  Submit
-                </Button>
-              </FormItem>
-              {/* --- STYLES --- */}
-              <style jsx>{`
-                .form {
-                  background: transparent;
-                }
-                .form :global(.ant-row.ant-form-item) {
-                  margin: 0 0 1em;
-                }
-                .form :global(.ant-row.ant-form-item:last-child) {
-                  margin-top: 1em;
-                }
-                .form :global(.ant-form-item-control) {
-                  line-height: 1em;
-                }
-                .form :global(.ant-form-item-label) {
-                  line-height: 1em;
-                  margin-bottom: 0.5em;
-                }
-                .form :global(.ant-form-item) {
-                  margin: 0;
-                }
-                .form :global(.ant-input) {
-                  appearance: none;
-                  height: auto;
-                  font-size: 1.2em;
-                  padding: 0.5em 0.6em;
-                }
-                .form :global(.ant-btn-primary) {
-                  height: auto;
-                  font-size: 1.2em;
-                  padding: 0.5em 3em;
-                  background: ${theme.color.brand.primary};
-                  border: 1px solid ${theme.color.brand.primary};
-                }
-                .form :global(.ant-form-explain) {
-                  margin-top: 0.2em;
-                }
+            textarea {
+              width: 100%;
+              height: 6rem;
+            }
 
-                @from-width desktop {
-                  .form :global(input) {
-                    max-width: 50%;
-                  }
-                }
-              `}</style>
-            </Form>
-          )}
-        </ThemeContext.Consumer>
+            button {
+              font-family: "Do Hyeon", sans-serif;
+              font-size: 30px;
+              float: right;
+              text-transform: uppercase;
+
+            }
+
+            button:hover {
+                background-color: #3e3e3c;
+              color: #1eaedb;
+            }
+          `}</style>
+        </form>
       </div>
-    </React.Fragment>
-  );
-};
-
-Contact.propTypes = {
-  form: PropTypes.object
-};
-
-const ContactForm = Form.create({})(Contact);
-
-export default ContactForm;
+    );
+  }
+}
