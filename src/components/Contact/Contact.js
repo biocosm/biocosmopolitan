@@ -34,7 +34,7 @@ const Contact = props => {
   }
 
   function sendMessage(values) {
-    fetch("/", {
+    fetch("/", {formId
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", ...values })
@@ -58,7 +58,7 @@ const Contact = props => {
       <div className="form">
         <ThemeContext.Consumer>
           {theme => (
-            <Form onSubmit={handleSubmit} name="contact" dat2a-netlify="true" data-netlify-honeypot="bot-field">
+            <Form onSubmit={handleSubmit} name="contact" data-netlify="true" data-netlify-honeypot="bot-field">
              <input type="hidden" name="form-name" value="contact" />
               <FormItem label="Name">
                 {getFieldDecorator("name", {
