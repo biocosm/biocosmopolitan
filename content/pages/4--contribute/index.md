@@ -1,19 +1,17 @@
 ---
 title: YOU WILL BE ASSIMILATED
 ---
-## BIOCOSMOPOLITAN 
+## BIOCOSMOPOLITAN
 
-
-
-## IS THE CULTURAL AGGLOMERATOR 
-
-
+## IS THE CULTURAL AGGLOMERATOR
 
 ## YOU'VE BEEN WAITING FOR.
 
 The BIOCOSMOPOLITAN is a way of coping with the dystopian cyberpunk condition of the world. We fight for the living, during a time of mass extinction and killer robots. We want a platform for many different futures: alternatives to the grim future presented by our technological and corporate overlords. 
 
 ## We want to publish your work.
+
+Our email address is biocosm@protomail.com.
 
 Send us your essays, stories, and research notes. Send us your recorded works. Send us your spectacular images. We will put them in a fancy place, for public consumption, in good company among other biocosmic singularities.
 
