@@ -1,7 +1,7 @@
 ---
 title: Relating To The Ecology Of The Fence
 date: '2018-07-21T19:53:47-07:00'
-cover: /images/uploads/prabbit1.jpeg
+cover: ../../../static/images/uploads/prabbit1.jpeg
 category: 'MEAT, BONANZA, CURVATURE, WHOLE, PIECE, MURDER, FROZEN WATER'
 author: mkb01
 ---
