@@ -7,7 +7,7 @@ author: random
 ---
 PACK YOUR COOLER HONEY! WE’RE HEADING TO THE LAKE…  
 
-../../../static/images/uploads/marsattacks2.jpg
+![Time Shares Now Available!] (/images/uploads/marsattacks2.jpg)
 
 \* \* \* THE LAKE ON MARS! \* \* \*
 
@@ -21,6 +21,6 @@ This five-star resort offers a private liquid water lake and unique views. The R
 
 With  200 luxury suites, 4 restaurants, 2 indoor pools, the resort itself can easily say it's the biggest on the planet. Not to mention the first!
 
-../../../static/images/uploads/mars-attacks-03.jpg
+![This Could Be You!] (static/images/uploads/mars-attacks-03.jpg)
 
 The Red Rum, setup as a 501(c)3 non-profit proudly puts 100% of its profits toward securing Martian land in trust and terraforming the new planet for all men to enjoy. Your dollars go to support proud American men and women on the new frontier.
