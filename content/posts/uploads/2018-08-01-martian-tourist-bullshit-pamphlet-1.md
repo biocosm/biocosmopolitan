@@ -19,7 +19,7 @@ PACK YOUR COOLER HONEY! WE’RE HEADING TO THE LAKE…
 
 This five-star resort offers a private liquid water lake and unique views. The Red Rum has all the flavor of the Caribbean on an exotic and unexplored Martian lake. That means you and your family can sit back, on the beach, drink Mai Thais and be one of the first few to discover places and things where no man has gone before!
 
-With  200 luxury suites, 4 restaurants, 2 indoor pools, the resort itself is can easily say it's the biggest on the planet. Not to mention the first!
+With  200 luxury suites, 4 restaurants, 2 indoor pools, the resort itself can easily say it's the biggest on the planet. Not to mention the first!
 
 ../../../static/images/uploads/mars-attacks-03.jpg
 
