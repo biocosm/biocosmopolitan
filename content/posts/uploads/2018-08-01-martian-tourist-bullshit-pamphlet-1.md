@@ -7,7 +7,7 @@ author: random
 ---
 PACK YOUR COOLER HONEY! WE’RE HEADING TO THE LAKE…  
 
-../../..static/images/uploads/marsattacks2.jpg
+../../../static/images/uploads/marsattacks2.jpg
 
 \* \* \* THE LAKE ON MARS! \* \* \*
 
