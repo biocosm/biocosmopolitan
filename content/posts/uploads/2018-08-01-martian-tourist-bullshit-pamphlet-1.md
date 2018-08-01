@@ -1,7 +1,7 @@
 ---
 title: 'MARTIAN TOURIST BULLSHIT PAMPHLET #1'
 date: '2018-08-01T12:59:19-07:00'
-cover: /images/uploads/mars-attacks-03.jpg
+cover: ../../../static/images/uploads/mars-attacks-03.jpg
 category: 'fake news, fliers, lying, invasives'
 author: random
 ---
