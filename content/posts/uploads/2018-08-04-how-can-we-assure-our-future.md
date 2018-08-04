@@ -1,7 +1,7 @@
 ---
 title: How Can We Assure Our Future?
 date: '2018-08-04T09:43:18-07:00'
-cover: /images/uploads/screenshot-from-20171205_143755.mp4.png
+cover: ../../../static/images/uploads/screenshot-from-20171205_143755.mp4.png
 category: 'programs, space, slam dunk, coordinates'
 author: Brezik
 ---
