@@ -1,7 +1,7 @@
 ---
 title: 'CANLIFE PART TWO: THE CRACKERS IN THE CUPBOARD'
 date: '2018-12-24T14:44:30-08:00'
-cover: /images/uploads/thanksgritty.jpg
+cover: ../../../static/images/uploads/thanksgritty.jpg
 category: canlife
 author: mkb02
 ---
