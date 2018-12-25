@@ -1,7 +1,7 @@
 ---
 title: I AINT MOVIN
 date: '2018-12-24T18:11:24-08:00'
-cover: /images/uploads/barbyqchix.jpeg
+cover: ../../../static/images/uploads/barbyqchix.jpeg
 category: 'trufacts, lofi-dave-barry-type-shit'
 author: mkb02
 ---
@@ -13,7 +13,7 @@ I'm not necessarily against smart people doing smart stuff. I just don't think t
 
 Dumb shit is what makes this country great. Union battles that are blatently unwinnable, lost so often that the bosses give us a pity raise. Cities built on foundations of shit, garbage and dead rats. Uncounted masses of naive foreigners poured into factories and press-ganged into building the institutions that made the mighty idiot society we live in today. This continent could never have been conquered if those early rednecks could have understood a damn word of what those indians were saying, all the way back to  "No, dude, this is definitely not india." I don't agree with alot of what this country is, but it's hard to not appreciate the unstoppable force of ignorance that binds this society together. For every terrible idea, there was some possibility of a better outcome, and some shittier version of events that forced this particular world into being. We're like zombies. There is no arguing with us. Give us beer and a bed, and/or we'll burn this nation.
 
-![](/images/uploads/5-29-09-chicken-heads.jpg)
+![](../../../static/images/uploads/5-29-09-chicken-heads.jpg)
 
 I'm about flying 40 miles from Redding, it's a hundred and fuck degrees outside, and i'm just watching ashes fall from the sky, drinking beer in a lawn chair. I'm the adult in charge, and the kids are pretending it's snowing. Pieces of Redding are fucking up our lungs. I'm not anti intellectual. I just dont give a shit right now. People i trust are talking about where to go to get out of the smoke. I don't need to tell these kids about asthma yet because we might be breathing dead people and there isn't a fucking thing I can do about it. Right now I need to pretend to be bigfoot and get punched in the balls by a feral kindergardener.
 
