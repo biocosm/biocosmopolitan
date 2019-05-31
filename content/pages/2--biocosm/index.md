@@ -36,4 +36,4 @@ There is no ethic, no morality, and no philosophy that will prevent atrocities a
 
 ###  The selves intermingle.
 
-Why shouldn't individuals communize to create larger organisms which are new individuals? On what scale should this process be limited?
+Why shouldn't individuals communize to create larger organisms which are new individuals? On no scale should this process be limited.

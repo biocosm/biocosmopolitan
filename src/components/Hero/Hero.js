@@ -1,10 +1,10 @@
 import React from "react";
 import PropTypes from "prop-types";
 
-import FaNewspaperO from "react-icons/lib/fa/newspaper-o";
+import Podframe from "../Podframe";
 
 const Hero = props => {
-  const { scrollToContent, backgrounds, theme } = props;
+  const { backgrounds, theme } = props;
 
   return (
     <React.Fragment>
@@ -12,9 +12,7 @@ const Hero = props => {
         <h1>
           FAKE NEWS FROM OUTER SPACE
         </h1>
-        <button onClick={scrollToContent} aria-label="scroll">
-          <FaNewspaperO />
-        </button>
+        <Podframe style={{border:'4px solid white', boxShadow:'1 1 3 #003'}} />
       </section>
 
       {/* --- STYLES --- */}
